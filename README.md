@@ -4,6 +4,6 @@
 
 [Handbook of Uncertainty Quantification(https://www.springer.com/gp/book/9783319123844)
 
-[
+https://github.com/PredictiveScienceLab/uq-course
   
   
