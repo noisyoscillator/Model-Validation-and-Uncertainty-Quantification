@@ -5,5 +5,11 @@
 [Handbook of Uncertainty Quantification(https://www.springer.com/gp/book/9783319123844)
 
 https://github.com/PredictiveScienceLab/uq-course
+
+https://excalibur-sle.github.io/workshop2.html
+
+https://www.mdpi.com/journal/entropy/special_issues/assimilation
+
+
   
   
